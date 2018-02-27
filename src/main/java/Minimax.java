@@ -1,5 +1,6 @@
 import java.util.ArrayDeque;
 import java.util.Scanner;
+import org.openjdk.jmh.*;
 
 // RMQ : static final ne change pas grand chose
 // EValCOup ne change pas grand chose
